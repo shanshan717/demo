@@ -2,7 +2,6 @@
 
 This repository contains the data, analysis scripts, and results for a coordinate-based meta-analysis (CBMA) focusing on self-referential processing
 
----
 
 # GENERAL INFORMATION
 
@@ -10,7 +9,6 @@ This repository contains the data, analysis scripts, and results for a coordinat
 **Shared brain basis for altered self-referential processing across psychiatric disorders?  
 A systematic review and meta-analysis of neuroimaging studies**
 
----
 
 ## Computational Environment
 
@@ -61,28 +59,29 @@ Analyses were conducted using:
 
 ### First Author
 
-Name: Shanshan Zhu
-ORCID: https://orcid.org/0009-0007-6612-6190
-Institution: NanJing Normal Univeristy
-Email: zhushanshan0717@gmail.com
+- Name: Shanshan Zhu
+- ORCID: https://orcid.org/0009-0007-6612-6190
+- Institution: NanJing Normal Univeristy
+- Email: zhushanshan0717@gmail.com
 
 ### Corresponding Author
 
-Name: Hu Chuan-Peng
-ORCID: xxxxx
-Institution: NanJing Normal Univeristy
-Email: hcp4715@hotmail.com
+- Name: Hu Chuan-Peng
+- ORCID: xxxxx
+- Institution: NanJing Normal Univeristy
+- Email: hcp4715@hotmail.com
 
 ## Contributors
-[2021.11-present] Hu Chuan-Peng: Project design; data verification and management; manuscript writing and revision.
-[2023.01-present] Shan-shan Zhu: Data collection and proofreading; data summarization and organization; manuscript writing and revision.
-[2025.03-present] Xue-Yang Zhu: Data collection and proofreading.
-[2025.03-present] Xin-Yan Li: Data collection and proofreading.
-[2025.03-present] Zhao-Li Fan: Data collection and proofreading.
-[2024.07-2024.11] Si-Yu Wu: Data collection and proofreading.
-[2023.01-2023.12] Jia-Qi Wu: Data collection and proofreading, summarization and collation.
-[2023.07-2023.09] Ya-Qi Li: Database collection and proofreading.
-[2021.11-2022.12] Shu-Ting Sun: Data collection and proofreading, summarization, data analysis, and paper writing and revision.
-[2021.11-2022.12] Nan Wang: Data collection and proofreading, summarization and collation, and paper writing and revision.
-[2021.11-2022.07] Jia-Hui Wen: Data collection.
-[2023.07-2023.11] Jian Xiao: Data collection and proofreading, database verification, data analysis.
+
+- [2021.11-present] Hu Chuan-Peng: Project design; data verification and management; manuscript writing and revision.
+- [2023.01-present] Shan-shan Zhu: Data collection and proofreading; data summarization and organization; manuscript writing and revision.
+- [2025.03-present] Xue-Yang Zhu: Data collection and proofreading.
+- [2025.03-present] Xin-Yan Li: Data collection and proofreading.
+- [2025.03-present] Zhao-Li Fan: Data collection and proofreading.
+- [2024.07-2024.11] Si-Yu Wu: Data collection and proofreading.
+- [2023.01-2023.12] Jia-Qi Wu: Data collection and proofreading, summarization and collation.
+- [2023.07-2023.09] Ya-Qi Li: Database collection and proofreading.
+- [2021.11-2022.12] Shu-Ting Sun: Data collection and proofreading, summarization, data analysis, and paper writing and revision.
+- [2021.11-2022.12] Nan Wang: Data collection and proofreading, summarization and collation, and paper writing and revision.
+- [2021.11-2022.07] Jia-Hui Wen: Data collection.
+- [2023.07-2023.11] Jian Xiao: Data collection and proofreading, database verification, data analysis.
